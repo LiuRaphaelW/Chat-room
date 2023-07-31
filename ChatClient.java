@@ -1,4 +1,3 @@
-package ChatPack;
 import java.io.*;
 import java.net.*;
 
