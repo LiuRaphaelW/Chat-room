@@ -18,6 +18,7 @@ public class ChatClient {
                     }
                 } catch (IOException e) {
                     e.printStackTrace();
+                    //THIS IS JUST A TEST TO SEE IF THIS IS GOING TO WORK
                 }
             }).start();
             String message;
